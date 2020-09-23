@@ -74,7 +74,7 @@ body
 }
 .checkbox:checked
 {
-   background-color: greenyellow;
+   background-color: green;
 }
 
 .delete
